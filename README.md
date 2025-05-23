@@ -14,6 +14,8 @@ Este repositório reúne nossas atividades, exercícios e materiais relacionados
 
 ## 📂 Estrutura do Repositório
 
+- `exercicios/`: soluções organizadas por plataformas.
+
 ## ✅ Como contribuir
 
 1. **Crie uma branch** para a sua contribuição:
