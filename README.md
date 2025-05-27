@@ -38,6 +38,7 @@ Exemplo: `1001_extremamente_basico.cpp`
 ## 👥 Time
 
 - [@milenamso](https://github.com/milenamso)
+- [@davi-egito](https://github.com/davi-egito)
 
 ## 📚 Recursos úteis
 
