@@ -38,7 +38,7 @@ Exemplo: `1001_extremamente_basico.cpp`
 ## 👥 Time
 
 - [@milenamso](https://github.com/milenamso)
-- [@davi-egito](https://github.com/davi-egito)
+- [@daviegito](https://github.com/davi-egito)
 - [@BalderLink](https://github.com/BalderLink)
 - [@CarlosEduardoSilvaAlmeida](https://github.com/CarlosEduardoSilvaAlmeida)
 
