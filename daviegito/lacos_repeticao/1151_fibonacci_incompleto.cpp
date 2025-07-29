@@ -15,7 +15,7 @@ int main() {
 		}
 	} else {
 	for(i=2;i<ent;i++){
-	cout << "0 1 " << endl;	
+	cout << "0 1 " << return
 	}
 	}
 	return 0;
